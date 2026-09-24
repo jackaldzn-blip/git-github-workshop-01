@@ -1,0 +1,2 @@
+Git workshop notes
+Practicing staging and commits
